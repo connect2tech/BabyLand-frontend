@@ -12,8 +12,8 @@ import FAQs from "./pages/Messages/FAQs";
 import Register from "./pages/Secure/Register";
 import Login from "./pages/Log/Login";
 import Error from "./pages/Error/Error";
-import RootLayout from "./Layouts/RootLayout";
-import AuthLayout from "./Layouts/AuthLayout";
+import RootLayout from "./layouts/RootLayout";
+import AuthLayout from "./layouts/AuthLayout";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
